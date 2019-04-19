@@ -19,11 +19,11 @@ set(${PROJECT_NAME}_INCLUDE_DIR
     ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 set(${PROJECT_NAME}_SOURCES
-    ${${PROJECT_NAME}_SRC_DIR}/empty.cpp
+    ${${PROJECT_NAME}_SRC_DIR}/trie.cpp
     )
 
 set(${PROJECT_NAME}_HEADERS
-    ${${PROJECT_NAME}_INCLUDE_DIR}/empty.h
+    ${${PROJECT_NAME}_INCLUDE_DIR}/trie.h
     )
 
 add_library(${TMP_LIBRARY} STATIC

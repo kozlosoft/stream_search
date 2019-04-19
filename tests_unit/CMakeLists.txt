@@ -19,7 +19,7 @@ endif()
 
 add_executable(${PROJECT_NAME}
   main.cpp
-  test_unit_empty.cpp
+  test_unit_trie.cpp
   )
 add_test(
     NAME ${PROJECT_NAME} 
