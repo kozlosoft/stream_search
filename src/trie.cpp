@@ -1,5 +1,7 @@
 #include "trie.h"
 
+#include <istream>
+
 void TrieNode::insert(const std::wstring& word, size_t char_index)
 {
     if (char_index >= word.size()) 
@@ -29,4 +31,13 @@ bool TrieNode::contains(const std::wstring& word, size_t char_index) const
         return false;
     }
     return it->second->contains(word, char_index + 1);
+}
+
+void TrieNode::read_file_stream(std::wistream& stream)
+{
+    std::wstring string;
+    while (std::getline(stream, string))
+    {
+        insert(string);
+    }
 }

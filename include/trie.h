@@ -19,6 +19,7 @@ public:
 
     void insert(const std::wstring& word, size_t char_index = 0);
     bool contains(const std::wstring& word, size_t char_index = 0) const;
+    void read_file_stream(std::wistream& stream);
 
 public:
     std::unordered_map<wchar_t, std::shared_ptr<TrieNode> > children_;

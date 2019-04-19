@@ -20,6 +20,7 @@ endif()
 add_executable(${PROJECT_NAME}
   main.cpp
   test_unit_trie.cpp
+  test_unit_plain_tokenizer.cpp
   )
 add_test(
     NAME ${PROJECT_NAME} 

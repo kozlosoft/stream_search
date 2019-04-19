@@ -71,3 +71,23 @@ TEST(Trie, ContainsEmptyString)
     // assert
     ASSERT_EQ(root.contains(L""), true);
 }
+
+TEST(Trie, ReadFileStream)
+{
+    // arrange
+    std::wstringstream ss;
+    std::wstring first_line(L"asd asd первая строка");
+    std::wstring second_line(L"последняя строка");
+    ss << first_line << std::endl;
+    ss << second_line;
+    TrieNode root;
+
+    // action
+    root.read_file_stream(ss);
+
+    // assert
+    ASSERT_EQ(root.contains(first_line), true);
+    ASSERT_EQ(root.contains(second_line), true);
+
+    ASSERT_EQ(root.contains(L"asd"), false);
+}
