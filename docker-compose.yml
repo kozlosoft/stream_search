@@ -8,3 +8,5 @@ services:
       dockerfile: Dockerfile
     volumes:
       - './:/data'
+      # own build dir inside the container
+      - '/data/build'
