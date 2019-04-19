@@ -26,6 +26,7 @@ set(${PROJECT_NAME}_SOURCES
 set(${PROJECT_NAME}_HEADERS
     ${${PROJECT_NAME}_INCLUDE_DIR}/trie.h
     ${${PROJECT_NAME}_INCLUDE_DIR}/plain_tokenizer.h
+    ${${PROJECT_NAME}_INCLUDE_DIR}/abstract_tokenizer.h
     )
 
 add_library(${TMP_LIBRARY} STATIC

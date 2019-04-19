@@ -43,3 +43,7 @@ bool PlainTokenizer::get_next_token(std::wstring& word)
     }
     return false;
 }
+
+bool PlainTokenizer::current_token_is_highlightable() const {
+    return true;
+}

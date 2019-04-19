@@ -1,8 +1,10 @@
 #pragma once
 
+#include "abstract_tokenizer.h"
+
 #include <istream>
 
-class PlainTokenizer
+class PlainTokenizer final : public AbstractTokenizer
 {
 public:
     PlainTokenizer(std::wistream& stream);
@@ -12,7 +14,8 @@ public:
     PlainTokenizer& operator=(PlainTokenizer&&) = delete;
     ~PlainTokenizer() = default;
 
-    bool get_next_token(std::wstring& word);
+    bool get_next_token(std::wstring& word) override;
+    bool current_token_is_highlightable() const override;
 
 private:
     std::wistream& stream_;

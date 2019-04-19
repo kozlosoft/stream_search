@@ -106,3 +106,22 @@ TEST(PlainTokenizer, GetNextTokenOnEmpty)
     // assert
     ASSERT_EQ(actual_tokens, expected_tokens);
 }
+
+TEST(PlainTokenizer, CurrentTokenAlwaysHighlightable)
+{
+    // arrange
+    std::wstringstream ss;
+    ss << "hi";
+
+    PlainTokenizer tokenizer(ss);
+
+    // action
+    // assert
+    ASSERT_EQ(tokenizer.current_token_is_highlightable(), true);
+    std::wstring word;
+    while (tokenizer.get_next_token(word))
+    {
+        ASSERT_EQ(tokenizer.current_token_is_highlightable(), true);
+    }
+    ASSERT_EQ(tokenizer.current_token_is_highlightable(), true);
+}
