@@ -31,7 +31,14 @@ bool PlainTokenizer::get_next_token(std::wstring& word)
             else
             {
                 word = ss.str();
-                current_delimeter_ = symbol;
+                if (word.empty())
+                {
+                    word = symbol;
+                }
+                else
+                {
+                    current_delimeter_ = symbol;
+                }
                 return true;
             }
         }

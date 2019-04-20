@@ -22,6 +22,7 @@ set(${PROJECT_NAME}_SOURCES
     ${${PROJECT_NAME}_SRC_DIR}/trie.cpp
     ${${PROJECT_NAME}_SRC_DIR}/plain_tokenizer.cpp
     ${${PROJECT_NAME}_SRC_DIR}/highlighter.cpp
+    ${${PROJECT_NAME}_SRC_DIR}/html_tokenizer.cpp
     )
 
 set(${PROJECT_NAME}_HEADERS
@@ -29,6 +30,7 @@ set(${PROJECT_NAME}_HEADERS
     ${${PROJECT_NAME}_INCLUDE_DIR}/plain_tokenizer.h
     ${${PROJECT_NAME}_INCLUDE_DIR}/abstract_tokenizer.h
     ${${PROJECT_NAME}_INCLUDE_DIR}/highlighter.h
+    ${${PROJECT_NAME}_INCLUDE_DIR}/html_tokenizer.h
     )
 
 add_library(${TMP_LIBRARY} STATIC

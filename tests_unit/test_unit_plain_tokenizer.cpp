@@ -87,6 +87,30 @@ TEST(PlainTokenizer, GetNextTokenEndsWithLongWord)
     ASSERT_EQ(actual_tokens, expected_tokens);
 }
 
+TEST(PlainTokenizer, GetNextTokenStartsWithDelimeter)
+{
+    // arrange
+    std::wstringstream ss;
+    ss << L"<a";
+    std::vector<std::wstring> expected_tokens = {
+        L"<",
+        L"a",
+    };
+
+    PlainTokenizer tokenizer(ss);
+
+    // action
+    std::wstring word;
+    std::vector<std::wstring> actual_tokens;
+    while (tokenizer.get_next_token(word))
+    {
+        actual_tokens.push_back(word);
+    }
+
+    // assert
+    ASSERT_EQ(actual_tokens, expected_tokens);
+}
+
 TEST(PlainTokenizer, GetNextTokenOnEmpty)
 {
     // arrange
