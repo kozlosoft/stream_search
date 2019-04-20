@@ -12,10 +12,12 @@ function test {
     if [[ $RETURN_CODE != 0 ]]; then 
     echo not matches etalon at $TEST_DIR input_type=$INPUT_TYPE
     exit $RETURN_CODE; 
+    else
+    echo ok - $TEST_DIR input_type=$INPUT_TYPE
     fi
 }
 
 cd ./build
 
 test ../data/1 text
-test ../data/1 html
+# test ../data/1 html
