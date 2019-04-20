@@ -21,6 +21,7 @@ add_executable(${PROJECT_NAME}
   main.cpp
   test_unit_trie.cpp
   test_unit_plain_tokenizer.cpp
+  test_unit_highlighter.cpp
   )
 add_test(
     NAME ${PROJECT_NAME} 

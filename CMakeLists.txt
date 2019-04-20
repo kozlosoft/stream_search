@@ -21,12 +21,14 @@ set(${PROJECT_NAME}_INCLUDE_DIR
 set(${PROJECT_NAME}_SOURCES
     ${${PROJECT_NAME}_SRC_DIR}/trie.cpp
     ${${PROJECT_NAME}_SRC_DIR}/plain_tokenizer.cpp
+    ${${PROJECT_NAME}_SRC_DIR}/highlighter.cpp
     )
 
 set(${PROJECT_NAME}_HEADERS
     ${${PROJECT_NAME}_INCLUDE_DIR}/trie.h
     ${${PROJECT_NAME}_INCLUDE_DIR}/plain_tokenizer.h
     ${${PROJECT_NAME}_INCLUDE_DIR}/abstract_tokenizer.h
+    ${${PROJECT_NAME}_INCLUDE_DIR}/highlighter.h
     )
 
 add_library(${TMP_LIBRARY} STATIC
