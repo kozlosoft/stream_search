@@ -22,4 +22,6 @@ private:
 
     bool is_inside_tag_;
     bool is_tag_closed_;
+    std::wstring next_token_after_open_angle_bracket_;
+    bool next_token_after_open_angle_bracket_stream_status_;
 };
