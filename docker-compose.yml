@@ -10,3 +10,4 @@ services:
       - './:/data'
       # own build dir inside the container
       - '/data/build'
+      - '/data/data'
