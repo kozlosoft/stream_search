@@ -246,6 +246,46 @@ TEST(HtmlTokenizer, GetNextTokenIgnoresScriptTag1)
     ASSERT_EQ(actual, expected);
 }
 
+TEST(HtmlTokenizer, GetNextTokenIgnoresScriptTag2)
+{
+    // arrange
+    std::wstringstream ss;
+    ss << L"<script src=\"script\">a</script>b";
+    std::vector<WordHighlightablePair> expected = {
+        {L"<", false},
+        {L"script", false},
+        {L" ", false},
+        {L"src", false},
+        {L"=", false},
+        {L"\"", false},
+        {L"script", false},
+        {L"\"", false},
+        {L">", false},
+        {L"a", false},
+        {L"<", false},
+        {L"/", false},
+        {L"script", false},
+        {L">", false},
+        {L"b", true},
+    };
+
+    HtmlTokenizer tokenizer(ss);
+
+    // action
+    std::wstring word;
+    std::vector<WordHighlightablePair> actual;
+    while (tokenizer.get_next_token(word))
+    {
+        actual.push_back(
+            std::make_pair(
+                word, 
+                tokenizer.current_token_is_highlightable()));
+    }
+
+    // assert
+    ASSERT_EQ(actual, expected);
+}
+
 TEST(HtmlTokenizer, GetNextTokenIgnoresStyleTag1)
 {
     // arrange

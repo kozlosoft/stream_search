@@ -18,13 +18,16 @@ public:
     bool current_token_is_highlightable() const override;
 
 private:
-    void hadle_angle_brackets(const std::wstring& word);
+    void handle_angle_brackets(const std::wstring& word);
+    void handle_script_tag(const std::wstring& word);
+    void handle_style_tag(const std::wstring& word);
 
 private:
     PlainTokenizer plain_tokenizer_;
 
     bool is_inside_tag_;
     bool is_tag_closed_;
+    bool is_inside_closing_tag_;
     std::wstring next_token_after_open_angle_bracket_;
     bool next_token_after_open_angle_bracket_stream_status_;
 
