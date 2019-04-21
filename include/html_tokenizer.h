@@ -18,6 +18,9 @@ public:
     bool current_token_is_highlightable() const override;
 
 private:
+    void hadle_angle_brackets(const std::wstring& word);
+
+private:
     PlainTokenizer plain_tokenizer_;
 
     bool is_inside_tag_;

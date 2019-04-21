@@ -19,13 +19,19 @@ bool HtmlTokenizer::get_next_token(std::wstring& word)
 
         next_token_after_open_angle_bracket_ = L"";
         next_token_after_open_angle_bracket_stream_status_ = false;
-        
     }
     else
     {
         answer = plain_tokenizer_.get_next_token(word);
     }
     
+    hadle_angle_brackets(word);
+    
+    return answer;
+}
+
+void HtmlTokenizer::hadle_angle_brackets(const std::wstring& word)
+{
     if (word == L"<") {
         is_inside_tag_ = true;
         is_tag_closed_ = false;
@@ -55,8 +61,6 @@ bool HtmlTokenizer::get_next_token(std::wstring& word)
            is_tag_closed_ = false;
        }
     }
-    
-    return answer;
 }
 
 bool HtmlTokenizer::current_token_is_highlightable() const 
