@@ -4,7 +4,7 @@ function test {
     local TEST_DIR=$1
     local INPUT_TYPE=$2
     
-    ./stream_search $TEST_DIR/dict.txt $INPUT_TYPE < $TEST_DIR/input.txt > $TEST_DIR/output.txt
+    time ./stream_search $TEST_DIR/dict.txt $INPUT_TYPE < $TEST_DIR/input.txt > $TEST_DIR/output.txt
     
     diff $TEST_DIR/output.txt $TEST_DIR/output_etalon_$INPUT_TYPE.txt
     RETURN_CODE=$?; 
@@ -20,4 +20,4 @@ function test {
 cd ./build
 
 test ../data/1 text
-# test ../data/1 html
+test ../data/1 html

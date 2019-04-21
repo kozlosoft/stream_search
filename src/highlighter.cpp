@@ -19,7 +19,8 @@ void Highlighter::highlight(std::wostream& ostream) const
     std::wstring word;
     while (tokenizer_->get_next_token(word))
     {
-        if (dictionary_->contains(word))
+        if (tokenizer_->current_token_is_highlightable() && 
+            dictionary_->contains(word))
         {
             ostream << prefix << word << suffix;
         }

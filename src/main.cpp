@@ -1,5 +1,6 @@
 #include "trie.h"
 #include "plain_tokenizer.h"
+#include "html_tokenizer.h"
 #include "highlighter.h"
 
 #include <iostream>
@@ -41,7 +42,8 @@ int main(int argc, char** argv)
     }
     else if (input_type == "html")
     {
-        // TODO
+        tokenizer = 
+        std::make_shared<HtmlTokenizer>(std::wcin);
     }
     else
     {

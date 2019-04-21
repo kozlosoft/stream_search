@@ -5,7 +5,9 @@ HtmlTokenizer::HtmlTokenizer(std::wistream& stream) :
     is_inside_tag_(false),
     is_tag_closed_(false),
     next_token_after_open_angle_bracket_(),
-    next_token_after_open_angle_bracket_stream_status_(false)
+    next_token_after_open_angle_bracket_stream_status_(false),
+    is_inside_script_(false),
+    is_inside_style_(false)
 {
 }
 
@@ -26,6 +28,15 @@ bool HtmlTokenizer::get_next_token(std::wstring& word)
     }
     
     hadle_angle_brackets(word);
+
+    if (is_inside_tag_ && word == L"script")
+    {
+        is_inside_script_ = ! is_inside_script_;
+    }
+    if (is_inside_tag_ && word == L"style")
+    {
+        is_inside_style_ = ! is_inside_style_;
+    }
     
     return answer;
 }
@@ -66,5 +77,7 @@ void HtmlTokenizer::hadle_angle_brackets(const std::wstring& word)
 bool HtmlTokenizer::current_token_is_highlightable() const 
 {
     return 
-        ! is_inside_tag_;
+        ! is_inside_tag_ && 
+        ! is_inside_script_ &&
+        ! is_inside_style_;
 }
