@@ -73,7 +73,7 @@
         </script>
     </div>
 
-<div id="general">
+<div id="<i class=”src”>general</i>">
             <div class="fix header__banner">
             <!-- Bestseller/The-Flow/1000x200 -->
                 <div id='div-gpt-ad-1502182766119-0'>
@@ -528,7 +528,7 @@ max-height: 600px;
     </footer>
     <div class="btn_to_top"></div>
 </div>
-<!-- general -->
+<!-- <i class=”src”>general</i> -->
 <script  onload="VK.init({apiId: 4391242, onlyWidgets: true});" type="text/javascript" src="//vk.com/js/api/openapi.js?113" defer="defer">
 </script>
 <script type="text/javascript">

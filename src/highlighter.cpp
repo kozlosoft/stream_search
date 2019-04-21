@@ -1,5 +1,7 @@
 #include "highlighter.h"
 
+#include <fstream>
+
 namespace 
 {
     std::wstring prefix(L"<i class=”src”>");
@@ -29,4 +31,5 @@ void Highlighter::highlight(std::wostream& ostream) const
             ostream << word;
         }
     }
+    ostream.flush();
 }

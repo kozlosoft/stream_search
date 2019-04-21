@@ -8,6 +8,7 @@ cd build
 cmake .. 
 cmake --build . -- -j4
 ctest -V 
+(cd .. ; ./test.sh)
 ./stream_search <dict_path> <input_type=text|html> 
     e.g. ./stream_search ../data/1/dict.txt text 
 ```
