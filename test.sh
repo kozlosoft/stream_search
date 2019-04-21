@@ -21,3 +21,6 @@ cd ./build
 
 test ../data/1 text
 test ../data/1 html
+
+test ../data/2 text
+test ../data/2 html

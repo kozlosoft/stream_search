@@ -1,0 +1,596 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="twitter:image:width" content="830" />
+<meta name="twitter:image:height" content="450" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="https://the-flow.ru/features/с4-2019-interview" />
+<meta name="twitter:title" content="&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история" />
+<meta name="twitter:description" content="От трэп-лайфа в Америке до альбома с Гуфом." />
+<meta name="twitter:image" content="https://the-flow.ru/uploads/images/origin/01/57/52/54/61/a83c5f8.jpg" />
+<meta name="twitter:site" content="@theflowmag" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://the-flow.ru/uploads/images/origin/01/57/52/54/61/a83c5f8.jpg" />
+<meta property="og:title" content="&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история" />
+<meta property="og:description" content="От трэп-лайфа в Америке до альбома с Гуфом." />
+<meta property="og:url" content="https://the-flow.ru/features/с4-2019-interview" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="The-Flow.ru" />
+<meta name="description" content="От трэп-лайфа в Америке до альбома с Гуфом. Актуальные опросы, интервью и другие статьи от The Flow." />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:700" />
+<link rel="stylesheet" type="text/css" href="/assets/27c587d8/normalize.css" />
+<link rel="stylesheet" type="text/css" href="/assets/27c587d8/style.css?v=213" />
+<link rel="stylesheet" type="text/css" href="/assets/27c587d8/jquery.jscrollpane.css" />
+<script type="text/javascript" src="/assets/script-0-33d76-v10.js"></script>
+<title>&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история</title>
+    <base href="https://the-flow.ru/"/>
+    <meta content="width = 1260" name="viewport">
+    <link href="/themes/flow2/css/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+    
+    <meta name="yandex-verification" content="811e150d89fe0504" />
+
+	    <link rel="alternate" media="only screen and (max-width: 768px)" href="https://m.the-flow.ru/features/%D1%814-2019-interview">
+    	
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TT8FHZ7');</script>
+    <!-- End Google Tag Manager -->
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/166124333/The-Flow/1000x200', [1000, 200], 'div-gpt-ad-1502182766119-0').addService(googletag.pubads());
+            googletag.defineSlot('/166124333/The-Flow/240x400', [[300, 600], [240, 400]], 'div-gpt-ad-1502182766119-1').addService(googletag.pubads());
+			googletag.defineSlot('/166124333/The-Flow/Fullscreen', [1, 1], 'div-gpt-ad-1515771377761-0').addService(googletag.pubads());
+            googletag.defineSlot('/166124333/The-Flow/inread', [1, 1], 'div-gpt-ad-1502182766119-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+			            googletag.enableServices();
+        });
+    </script>
+
+    
+</head>
+<body class="main_body">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT8FHZ7"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <!-- Bestseller/The-Flow/Fullscreen -->
+    <div id='div-gpt-ad-1515771377761-0'>
+        <script>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515771377761-0'); });
+        </script>
+    </div>
+
+<div id="general">
+            <div class="fix header__banner">
+            <!-- Bestseller/The-Flow/1000x200 -->
+                <div id='div-gpt-ad-1502182766119-0'>
+                    <script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502182766119-0'); });
+                    </script>
+                </div>        </div>
+        <header>
+        <div class="fix header_fields">
+            <a href="/" class="logo"></a>
+
+            <menu class="header_menu">
+                <a href="/foto" class="header_menu__item ">Фото</a>
+                <a href="/videos" class="header_menu__item ">Клипы</a>
+                <a href="/music" class="header_menu__item ">Рецензии</a>
+                <a href="/releases" class="header_menu__item ">Альбомы</a>
+                <a href="/features" class="header_menu__item ">Тексты</a>
+                <a href="/news" class="header_menu__item ">Новости</a>
+                <a href="/battles" class="header_menu__item ">Баттлы</a>
+                <a href="/grantbeats" title="Grant Beats" class="grantbeats-link header_menu__item "></a>                <style>
+                    .grantbeats-link{
+                        right: -118px;
+                        top: -10px;
+                        background: rgba(0, 0, 0, 0) url("/themes/flow2/css/img/grantbeats/button.png") no-repeat scroll 0 0;
+                        height: 50px;
+                        width: 82px;
+                        position: absolute;
+                        transition: all .1s ease-in-out;
+                    }
+                    .grantbeats-link:hover{
+                        border: none;
+                        transform: scale(0.9);
+                    }
+                    .header_menu .header_menu__item {
+                        margin-right: 25px;
+                    }
+                </style>
+            </menu>
+
+            <div class="search_panel">
+                                <form id="yw3" action="/catalog/search/index" method="get">                <input id="keyword" name="title" type="text" maxlength="300" />                <input id="searchBtn" name="" type="submit" value="" />                </form>            </div>
+
+            <div class="social">
+                <a class="social__item fb" href="https://www.facebook.com/superslowflow" rel="nofollow"></a>
+                <a class="social__item vk" href="https://vk.com/theflow" rel="nofollow"></a>
+                <a class="social__item tw" href="https://twitter.com/theflowmag" rel="nofollow"></a>
+                <br>
+                <a class="social__item telegram" href="https://t.me/superslowflow" rel="nofollow"></a>
+                <a class="social__item inst" href="https://www.instagram.com/theflow.ru/" rel="nofollow"></a>
+                <a class="social__item youtube" href="https://www.youtube.com/channel/UCh5Ke3pxOtcpjHPxDZ79OKg/videos" rel="nofollow"></a>
+            </div>
+
+            <div class="age_restriction">16+</div>
+        </div>
+    </header>
+
+    <!-- content -->
+    <div class="content">
+            <div class="fix oh">
+        <div class="content__left_column">
+                        
+
+<section class="bread_crumbs">
+    <div class="breadcrumbs">
+<a href="/">Главная</a> / <a href="/features">Тексты</a> / <span>&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история</span></div></section>
+
+
+<div class="article">
+    <div class="article__header">
+        <a href="/features" class="b-part_name gray">Тексты</a>
+        <div class="article__date">19 апреля 2019</div>
+
+                    <div class="article__source">Интервью: Николай Редькин</div>
+            </div>
+
+    <script src="/themes/flow2/js/social.js"></script>
+
+    <h1 class="article__title">"Чувак достал ствол, направил на меня и начал плакать". Рэпер С4 и его история</h1>
+    <div class="article__descr">От трэп-лайфа в Америке до альбома с Гуфом.</div>
+
+    <div class="article__counters">
+    <div class="social_counters">
+        <a href="#" class="social_counters__item fb" data-social-type="fb" data-social-url="https://the-flow.ru/16220" data-social-title="&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история">
+            <span id="fb"></span>
+        </a> <a href="#" class="social_counters__item vk" data-social-type="vk" data-social-url="https://the-flow.ru/16220" data-social-title="&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история">
+            <span id="vk"></span>
+        </a> <a href="#" class="social_counters__item tw" data-social-type="tw" data-social-url="https://the-flow.ru/16220" data-social-title="&quot;Чувак достал ствол, направил на меня и начал плакать&quot;. Рэпер С4 и его история">
+            <span id="tw"></span>
+        </a>
+    </div>
+    <div class="b-like">
+        <div class="b-like__text">Комментарии</div>
+        <div class="b-like__counter disqus-comment-count" data-disqus-url="https://the-flow.ru/features/с4-2019-interview">0</div>
+    </div>
+</div>
+
+    <div class="article__text c_post_text">
+        
+                            <img src="/uploads/images/resize/830x0/adaptiveResize/01/57/52/54/61/a83c5f840cd7.jpg" width="100%" style="margin-bottom: 30px;">
+        
+        
+
+        
+        <p>Федор Радов начал выпускать первые микстейпы больше 10 лет назад под псевдонимами Crash и С4. Это был южный рэп, на тот момент (пик популярности группы Centr) не особо востребованный в России. В середине “десятых” он уехал в США где прожил несколько лет, а в прошлом году вернулся, чтобы заниматься музыкой. В 2019 году, в 30 лет, он выпускает сразу несколько альбомов, в том числе совместные релизы с Гуфом и Bumble Beezy. The Flow записал его рассказ — про Америку, криминал и рэп, в котором слово не расходится с делом. <br><br><br><br><strong><bold>“Людей, которые слушали нашу музыку, было немного. Но они делали серьезные дела”</bold></strong><br><br>Первый трек я записал в 2006 году на студии ЦАО еще в команде Premiers. С тех пор я там постоянно появлялся, а потом стал собирать оборудование. И уже потом мне Птаха предложил поставить свое оборудование там. Так что группа Centr взрывала прямо на моих глазах. Они тогда писали свой первый альбом, а я был уверен, что это вообще не зайдет. Я же слушал южатину — T.I, Lil Scrappy, Gorilla Zoe и так далее.<br><br>Это было круто, тогда Баста был совсем стритовый — мог прийти в клуб без указания его на афише, взять микрофон и залететь. Помню, как только-только начали встречаться Гуф и Айза. И Айза уже тогда ему пообещала написать на него дисс.<br><br>В 2008 я пришел на концерт The Game. Я смотрел на его шоу, понимал, что у нас и близко нет такого рынка, таких заработков. У меня были сильные депрессии на этот счет. Потому что заканчивал институт, и надо было выбирать, чем заниматься. А гонорары у артистов были смешные, с тем, что сейчас, и сравнить нельзя. Мы делали вечеринки, мы участвовали в каких-то грязных темах. У меня вышло наскрести десятку зелени и купить себе первый “мерседес”. Изредка выезжали на гастроли с D.masta. Димон всегда брал с собой мерч и микстейпы и толкал их на концертах, меня это вдохновляло. Но факт — денег мне рэп не приносил до нынешнего времени.<br><br>Я понимал, что наша музыка не востребована, но принял такое решение — буду выпускать только такую музыку, какую хочу. Я был вокруг именитых людей, но не пытался им себя навязать. Людей, которые слушали нашу музыку, было немного, но я понимал, что они делали свои, серьезные дела — не батрачили на работе, шли к своей мечте. Потом я встречал таких людей в разных точках мира. Прикинь, меня узнали в Лос-Анджелесе. В Москве не узнавали, а там я остановился на заправке, чувак вышел и респектанул. Или прилетел в Ригу на пересадке из Швейцарии, написал об этом в инстаграме. Приехал какой-то чувачок, привез мне дури. “У тебя есть пара часов, давай покурим”. Я тебе говорю, музыка — это вещь, которая связывает нас за версты!<br><br><br><br>
+<iframe width="830" height="450" src="//www.youtube.com/embed/ZJxdQbhKSDs" frameborder="0" allowfullscreen="">&lt;span id="selection-marker-1" class="redactor-selection-marker"&gt;&lt;/span&gt;
+</iframe><br><br><br><br><br><strong>“Сколотили движуху и стали мутить грязь”</strong><br><br>У меня на руке набит мой братишка Jenee (рэпер и участник AVG, в 2013 году погибший в ДТП — прим. The Flow). Это был переломный момент в моей жизни: я находился в Дубаи, пытался протащить одну тему. Искал инвесторов, хотел открыть там клуб. В итоге один инвестор швырнул другого на 750 тысяч долларов, тема накрылась, и я понял, что больше не буду искать инвесторов. Что надо собирать свой капитал. Но этот момент совпал со смертью Jenee. Я осознал, что живу не своей жизнью: улетел из Дубаи, расстался с телкой, мы с пацанами здесь сколотили движуху и стали мутить грязь. Зарабатывали деньги как могли. <br><br>Jenee был большим человеком, в свои 23 он успел оставить колоссальное наследие. Когда он закончил университет, он сразу выбрал музыку, хотя это был путь в никуда. Он нашел оптимальный вариант деятельности — ну та, которая присуща рэперам, уточнять не буду. Делать грязь, так это называется. <br><br>Мы с ним придумывали разные схемы. В один момент Женя придумал “привезти Xzibit”. Мы состряпали какой-то договор, метнули его типу. Он выкатил нам 50% предпоплаты. К нему пришел пацан, который принес документы — но он был просто никто. Просто чувак в костюме. Он взял предоплату, за углом они с Женьком ее распилили — и все. Это борщ, не спорю, но нам было лет по 19! <br><br>Мы порой выкручивались из таких стремных ситуаций. Я пришел в клуб, сел за стол с девчонками. Потом мне надо было отойти, я возвращаюсь обратно — а девчонка плачет, говорит, что их выгнали из-за стола, как шлюх. Я знал типа, который это сделал, захотел ему пробить леща. По пути встречаю Женька, просто взял его, говорю: “Надо сейчас кое-кому въ….ть. Подстрахуй!”. Подходим, я даю типу три леща. Следом подходит охранник, чтобы меня вывести из клуба. А мне 23, я ходил на муай-тай. Вспыльчивый был, не разобрался и начальнику охраны по бороде попал. В итоге нас выволокли оттуда. Вытащили на паркинг, мне начал пробивать какой-то чувак. Подошли такие ребята в красных футболочках, я смотрю — там стоит рама двухметровая, в зубах капа. Явно не потусоваться сюда пришел. И Женек ему как даст в е….ло! Нас стояло двое, я и Женя, и пять телок в слезах. В итоге мы выстояли. Женя стоял и кричал им все армянские пакости, которые знал. Грязь была лютая. <br><br>Знаешь, для нас всегда был важен лайфстайл — ведь помимо твоего рэпа за тобой еще что-то должно быть. Мы с Женьком угорали над рэперками, которые приезжали на папиных бабках, а потом не могли по счету заплатить. Я так скажу: перед смертью Jenee дошел до оборота три миллиона рублей в неделю. В 23 года!<br><br><br><br>
+<iframe width="830" height="450" src="//www.youtube.com/embed/iYf0wYO5n_Q" frameborder="0" allowfullscreen="">&lt;span id="selection-marker-1" class="redactor-selection-marker"&gt;&lt;/span&gt;
+</iframe><br><br><br><em>Клип С4 и Jenee в 2010 году снял Blaze. А музыку для трека написал Скриптонит</em><br><br><br><br><br><br><br><strong>“В Штаты я улетел с косарем баксов”</strong><br><br>После Дубаи я прилетел обратно и начал крутиться. Потом меня въ...ал некто Иван Dread — я точно говорю, потому что видел постановление полиции. Ко мне пришли копы, обыскали квартиру. Пришлось дать им миллион рублей. И это счастье, что у меня нашелся человек, с которым я работал и который быстро мне деньги привез. Нам дали полчаса на это — и он успел. <br><br>Прошло еще какое-то время, и я начал видеть, как люди, которые занимаются грязью, начали торчать на крэке, их начали закрывать пачками. У нас был товарищ, царствие ему небесное, к нему приехали копы, и он решил проглотить стафф. А там было восемь граммов кокса. Он открылся у него в легких, пацан впал в кому — и через неделю умер. И таких историй миллион. Чтобы выйти из этого дерьма, мы начали работать по беспределу. Трескали об х..й всех подряд. Но быстро поняли: вокруг нездоровая атмосфера, ничего хорошего не будет. <br><br>У меня была открытая виза в Америку. В Штаты я улетал с косарем баксов, которые занял у друзей, потому что был на лютых голяках. <br><br><br><br>
+<iframe width="830" height="450" src="//www.youtube.com/embed/YiyityWURjY" frameborder="0" allowfullscreen=""><span id="selection-marker-1" class="redactor-selection-marker"></span>&lt;span id="selection-marker-1" class="redactor-selection-marker"&gt;&lt;/span&gt;
+</iframe><br>
+<div><br>
+</div><br><br><br><br><strong>“Горжусь, что не вернулся домой с пустыми карманами”</strong><br><br>Я прилетел в Лос-Анджелес и начал двигаться. Впоследствии там я познакомился с Киевстоунером. Я жил у наших общих знакомых — казахов, которые когда-то слушали мой музон. Там мы  и встретились, я даже не знал, что он знаменитый блогер, звезда инстаграма. Я часто заезжал за ним в компьютерный клуб, он мне помогал мутить мой любимый сорт blue dream, потому что у него была лицензия. Огромный респект ему за это.<br><br>Через месяц я сделал первую пятнашку зелени чистыми и начал крутить эти деньги. У меня была цель: заработать денег и уехать обратно, делать дела в нашей стране. Оставаться там мне не хотелось. <br><br>Мы жили в пентхаусах, а на следующий день ночевали в парках. Первое время практически жили в машинах на парковках. Но я горжусь собой, что не вернулся домой с пустыми карманами. Америка — это страна возможностей и страна дураков. Не напрягая особо жопы, можно пойти сделать 200 баксов. А сделать тысяч 20-30 долларов — это потрудиться пару часов в день на протяжение недели. Что там делал? Помогал контролировать кое-какие процессы, сам ничем криминальным не занимался. Я работал с черными, я же фанат афроамериканской культуры. Уже был подкован во всем этом, знал линго. Все очковали с ними работать, а у меня получалось. <br><br>В Америке таких людей, которые могут на….ть, называют zoe. Я видел черных, которые занимаются скаммингом, махинациями с кредитками. Помнишь, как в клипе <a href="https://www.youtube.com/watch?v=S7UAj9bl1-I" target="_blank">Meek Mill “Litty Again”</a>? У них на хате стоит принтер за пятак зелени, они печатают карточки, красят, покрывают их материалом специальным, которые дает серебряный оттенок. Сами себе печатают права, ламинируют. Потом через специальные сайты покупают себе базы данных с чужими номерами карт. Делают себе левые карты и целый день ездят с ними, у типа их штук 50-60. Пробует их везде — в супермаркете, в магазине электроники, шмотки, кроссовки. А в Штатах с кредитками просто, ты можешь по телефону продиктовать номер — у тебя спишут нужную сумму. Я в таком не участвовал, мне были интересны другие суммы, бегать и по 100 баксов собирать — это не мое. <br><br>Я был удивлен, насколько американская мечта – это реально. А еще сильнее удивило, что все, описанное Балабановым в “Брате 2” — это правда. Люди, которые уехали в Штаты и остались там жить — это брат-хоккеист из фильма. Он тебя не пустит пожить, не даст денег. Я не говорю, что все такие, но в большинстве своем русские американцы — это очень плавающая история. <br><br>Еще я никогда не думал, что расизм в Америке — это настолько сильно. У нас были ситуации, когда мы шли с черными пацанами по еврейскому блоку в Бруклине. Заходим в магазин, потому что начался дождь, и нас не пустили. Cказали, что во время дождя не обслуживают. Или когда в хостеле я снимал весь этаж за 100 баксов, а через день я пришел с черными ребятами — и нам дали только каморку, где стояли две двухэтажные кровати. Метр на два. <br><br>Когда я жил в Нью-Йорке, то мы с братишкой Gunz двигались в самом черном районе Ньюарке. Однажды к нам приехал таксист Uber, он увидел и спросил: “Вы чо тут на...й делаете? Это самый нигерский районе на всем белом свете”. Мы там ночевали в парках, Gunz — человек, который со мной половину Америки прошел. <br><br><br><br><br><strong>“У нас в России так: достал ствол — стреляй”</strong><br><br>Помню, это было лето 2016, год, когда в стране прогремело несколько громких убийств черных. Я ехал на “рейндж-ровере” по Бруклину, у меня были просрочены номера. Копы останавливают, а я упаленный в жопень, мы только что скурили огромный блант. Я вижу в зеркала, как с двух сторон на меня идут полицейские с оружием. Обосрался — это очень мягко сказано. Опустил слева окно, коп заставил опустить все и положить руки на руль. Я говорю: “А почему вы направляете на меня оружие?”. “У вас тонировка по кругу, а у наc в такой тонировке ездят только те, у кого с собой стволы”. Он показывает мне остатки бланта на заднем сидении. Я говорю: “Это кто-то из корешей выронил”. В итоге меня отпустили, сказали, что с просроченными номерами могу ездить еще два дня, а потом заберут машину.<br><br>В Америке за эти несколько лет на меня столько раз направляли ствол, сколько за всю жизнь в России не делали. Один раз это был черный чувачок, который неправильно воспринял наши отношения. Мы с кентом приехали к нему взять кое-что ночью, а он пишет, что спит. Я попросил своего малого кореша через забор перелезть и в окно ему стукнуть. После этого он звонит, ругается, я говорю: “А хули ты делаешь вид, что спишь? Выходи”. Он вышел, достал AR, это полуавтомат. А я был бухой. Говорю: “У нас в России достал — стреляй”. Знал, что он не готов к такому, хотя имел законное право прямо там нас порешать.<br><br>Второй случай был похуже. Я сидел с большой суммой денег, 180 тысяч долларов наличкой. Ювелирки было тысяч на 50 и сумки с техникой Apple на такую же сумму. Мой кореш Джей, с которым я долго двигался — замечательный пацан, но с поломанной психикой — подумал, что мы хотим его на….ть, потому что мы по-русски говорили, а он не понимал, и его это бесило. Причем мы жили вместе, двигались вместе, спали в соседних кроватях. Джей мой старший друг, ему 35, он катался на агрессивах, постоянно ходил с двумя “глоками” и пакетом крэка. Жил на “Марси”, это район Jay-Z, где опасная движуха. Короче, это тот самый тип, про которого рэперы пишут свои треки, сами того не подозревая. <br><br>В тот день он перенервничал, достал ствол прямо в номере отеля, направил его на меня и начал плакать. Я реально думал, что он меня е....ет. Он к тому моменту уже семь лет отсидел за перестрелку. Но я сказал: “Чувак, ты чо, е…..ся? Убери свое оружие, мы же с тобой друзья”. Мы потом общались, все было нормально. Но я думаю, тогда в душе он боролся со своей сущностью.<br><br><br><img src="/uploads/images/catalog/element/5cb4468052593.jpg"><br><br><img src=""><br><br><br><br><strong>“Red Cafe дал мне аукс, я прямо в эскалейде нарубил ему тречок”</strong><br><br>Я с 2007 года слушаю Red Cafe, отслушал все, что он выпускал. А потом прилетел в Майами и случайно его увидел, прямо в моем отеле. Там тусили черные ребята, и вдруг вечером подъехал “эскалейд”, вокруг него тусовочка. Я узнал его по прикиду, потом что был подписан на него в инстаграме. Короче, я подошел, мы познакомились. Бруклинские ниггеры особенно относятся к русским. Он узнал, что я рэпер, дал мне аукс. Я включил свой тречок, им понравилось. Он мне оставил свой номер, и с 2015 года мы на связи. В этом году сняли клип совместный с ним и с Bumble Beezy. Прикинь, я шел к нему 10 лет. Многие сейчас скажут, что он не звезда, но Red из тех людей, кто не гонится за феймом. Его вполне устраивает иметь свое имя и стабильный заработок. Он может прийти к Diddy или French Montana, записаться, срастить любой концерт. Он один из первых заметил Cardi B, снял с ней клип. <br><br>На свое 30-летие я сделал его концерт в Москве, мы классно провели время. У меня есть видео, где Гуф и Red Cafe поздравляют меня с днем рождения. И Леша постоянно говорил “Мой ниггер”, что люто меня вгоняло в краску. <br><br><br>
+<iframe width="830" height="450" src="//www.youtube.com/embed/f2znHVQtD-w" frameborder="0" allowfullscreen="">
+</iframe><br><br><em>То самое видео.</em><br><br><br><br><br>Я бывал в стрип-клубах, конечно. Кайф стрип-клуба в том, что ты приходишь, а там всегда рэп играет! У нас обычно это бордель, а там только часть стрип-клубов ведет такую деятельность. Остальные работают на отжимание денег у людей. Ты даешь на баре стодолларовую купюру, а сдачу получаешь бумажками по доллару. Тут же к тебе пристраиваются девочки, надо раскидывать им кэш. У меня приятель зашел, за пару часов 10 тысяч долларов оставил, даже никого не трахнул. <br><br>Там часто проходят мероприятия с рэперами, они типа хосты. И поначалу мы не знали, что там они не выступают. Приехали с приятелем на вечеринку с Desiigner и Fabolous, это был клуб в Квинсе. Думаешь, там кто-то из них рэп читал? Нет, бро, они просто там БЫЛИ. Даже сфотографироваться не вышло.<br><br><br><br><br><strong>“Ты не спускаешься в студию в подвале, а в баню идешь”</strong><br><br>Почему уехал? Мне не нравится страна, где все подвязывается к материальному. Глубины у этого всего немного, стать миллионером не так сложно. Сложнее потом не захлебнуться во всем этом дерьме, ненависти и так далее. Но дело даже не в страхе, дело в том, что я отсюда. Я человек этой страны, и меня всегда будет сюда тянуть. США идеальны, чтобы слетать туда и почерпнуть новых знаний, а потом вернуться обратно и повысить уровень. Штаты навязывают тебе нереальную веру в себя.<br><br>Когда в 2018 я вернулся, то понял, что надо собрать студию дома. Чтобы у нас с ребятами была своя подводная лодка, где бы нам никто не портил вайб. А то все эти студии в городе — там нельзя курнуть, здесь надо тапки надевать, впятером не приходите, не опаздывайте. Мы собрали команду: FD Vadim, Gunz, Deemars, Влад CL. Выбрали дом под Москвой, поехали туда. А там был отдельный банный дом из сруба, в нем мы сделали студию, все лето провели там. Это круто: ты выходишь из дома, солнце светит — и не в подвал спускаешься, а в баню идешь! Начинаешь творить, и совсем по-другому все получается.<br><br>Леша Гуф приезжал туда часто. Он очень хотел работать вместе и предложил нам перебраться поближе. К осени мы переехали туда, сейчас пишем совместный альбом. Я, Deemarz, Gunz и Гуф. <br><br>Мы с Лешей тыщу лет знакомы. Он уникален в том, что может с любым найти какую-то общую тему и исполнить ее правильно. И помимо прочего, мы с ним любили один музон. В 2016 мы увиделись в Лос-Анджелесе, и он прямо проникся треками с моего микстейпа “Keep It Trill’. Огромный ему респект за все, что он сделал! Deemarz и Gunz — это суперталанты, мы с ними очень близкие друзья. И сейчас они сильно выросли в музыкальном плане. То, что было у них раньше и что сейчас — небо и земля. <br><br><br>
+<iframe width="830" height="456" src="//www.youtube.com/embed/jAWCfC9g_8Q" frameborder="0" allowfullscreen=""><span id="selection-marker-1" class="redactor-selection-marker"></span>
+</iframe><br><br><br><br>Сейчас я дописал <a href="https://itunes.apple.com/ru/album/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE%D0%BC/1459527537" target="_blank">свой первый альбом “Облаком”</a>. Он будет очень аутентичным, такую музыку никто не выпускает у нас. Я бы сказал, что это такое альтер-эго типа Future Hendrixx. Про романтику, про отношения. А еще сейчас я готовлю материал в более классическом стиле — то, что люди привыкли от меня слышать. За хастл, за все прочее. Еще будет совместный альбом c Beezy, он красавчик. Уважаю ребят, которые так трудятся и хастлят. <br><br><br><br><br><strong>“Надо учиться быть капиталистом”</strong><br><br> Я никогда не был большим любителем литературы, но есть книги, которые сильно повлияли на мое мировоззрение. И я хотел бы их посоветовать людям, которые стремятся к чему-то. Во-первых, “48 законов власти” Роберта Грина. Во-вторых, “50 законов власти” Роберта Грина и 50 Cent. Потом обязательно Ирвина Шоу “Богач, бедняк”. Естественно, Теодор Драйзер “Титан” и “Финансист”. И обязательно книгу, которую наш президент знает как отче наш — “Государь” Маккиавелли. <br><br>Вот сейчас все говорят про Nipsey Hussle. Знаешь, чем он был так крут? Тем, что заставлял смотреть на жизнь другим взглядом. То, как он мыслил, как он говорил. Он говорил о правильных вещах — о том, как построить себя  с нуля. Если ты хочешь стать кем-то, надо учиться быть капиталистом. Любой успех находится вне зоны комфорта. Поднимите свою жопу и выйдите из дома — я это посоветую всем, кто сейчас меня прочитает. Надо уехать и начать все с нуля. Не надо быть pussy. <br><br>
+<div><br>
+</div><br><br><br></p>
+        <div><span style="margin-top:2rem; font-weight: bold; width:100%; text-align:center; display:block"><a href="http://bit.ly/2w0Oyvo">Зачем читать The Flow. Ведь его можно смотреть.</a></span></div>        
+    </div>
+
+    <!-- Bestseller/The-Flow/inread -->
+<div id="vn-player"></div>
+<div id='div-gpt-ad-1502182766119-3'>
+    <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502182766119-3'); });
+    </script>
+</div>
+
+
+<div class="article__text">
+    <br/>
+    <div id="disqus_thread"></div>
+    <noscript>Пожалуйста включите JavaScript для просмотра <a href="https://disqus.com/?ref_noscript" rel="nofollow">комментариев.</a>
+    </noscript>
+    <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">comments powered by
+        <span class="logo-disqus">Disqus</span>
+    </a>
+</div>
+<script type="text/javascript">
+    var disqus_shortname = 'the-flow2014';
+    var disqus_url = 'https://the-flow.ru/features/с4-2019-interview';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
+<style>
+    #dsq-app4{
+        display: none!important;
+    }
+</style>
+
+
+<div id="element_id" class="invisible">16220</div>
+
+<script>
+    setTimeout(function() {
+        var cntComments = $('.disqus-comment-count').html();
+        var id = $('#element_id').html();
+        /*if (cntComments) {
+            $.ajax({
+                type: 'GET',
+                url: '/catalog/element/comments',
+                data: "count=" + cntComments + "&id=" + id
+            });
+        }*/
+    }, 4000);
+</script></div>        </div>
+                    <div class="content__right_column">
+                
+
+    <div class="banner">
+        <!-- Bestseller/The-Flow/240x400 -->
+            <div id='div-gpt-ad-1502182766119-1'>
+                <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502182766119-1'); });
+                </script>
+            </div>
+
+<style>
+#div-gpt-ad-1502182766119-1 iframe{
+max-height: 600px;
+}
+</style>
+    </div>
+
+            </div>
+            </div>
+
+    <div class="fix">
+
+        <!--<div class="balloons">
+            <div class="balloons__item"></div>
+            <div class="balloons__item type_2"></div>
+            <div class="balloons__item type_3"></div>
+        </div>-->
+
+        <div class="more_publication">
+            <img src="/themes/flow2/css/img/preloader2.gif" class="preloader"/>
+
+            <br>
+            <a href="#" class="ajaxListViewAppend" data-css-path=".list-view .items" data-current-page="1" data-page-var="page" onclick="return false;">
+                <img src="/images/novosti.svg" width="227"/> </a>
+
+        </div>
+
+
+        <div class="h2 title_most_popular" style="text-align: center;">Самое популярное за неделю</div>
+
+        <section class="publication">
+                                        <div class="publication__item">
+                    <a class="hover_shadow" href="/news/twitter-15-04-2019"><img class="publication__item-photo" src="/uploads/images/resize/300x0/adaptiveResize/11/72/78/44/83/ab2518140cd7.jpg" alt="" /></a>
+                    <div class="publication__item-title">
+                        <a href="/news/twitter-15-04-2019">Написано в твиттер</a>
+                    </div>
+                    <div class="publication__item-text">
+                        Айза все еще хочет на Versus. HammAli рассказывает, как пишутся хиты. L'One и Nel фотографируются на фоне Москвы.                    </div>
+                </div>
+                            <div class="publication__item">
+                    <a class="hover_shadow" href="/news/gnoynyy-zamay-i-ochen-sereznoe-intervyu"><img class="publication__item-photo" src="/uploads/images/resize/300x0/adaptiveResize/08/92/83/68/32/0e7703140cd7.jpg" alt="" /></a>
+                    <div class="publication__item-title">
+                        <a href="/news/gnoynyy-zamay-i-ochen-sereznoe-intervyu">Гнойный, Замай и очень серьезное интервью</a>
+                    </div>
+                    <div class="publication__item-text">
+                        0% постиронии.                    </div>
+                </div>
+                            <div class="publication__item">
+                    <a class="hover_shadow" href="/news/palmdropov-challenge"><img class="publication__item-photo" src="/uploads/images/resize/300x0/adaptiveResize/02/28/04/46/24/3d738e040cd7.jpg" alt="" /></a>
+                    <div class="publication__item-title">
+                        <a href="/news/palmdropov-challenge">В твиттере проходит флэшмоб #palmdropovchallenge: там соревнуются в плохих вордплеях</a>
+                    </div>
+                    <div class="publication__item-text">
+                        Все из-за строчек Палмдропова вроде "Этому дала" — это мудала"                    </div>
+                </div>
+                            <div class="publication__item">
+                    <a class="hover_shadow" href="/news/oxxxymiron-novy-albom-budet"><img class="publication__item-photo" src="/uploads/images/resize/300x0/adaptiveResize/01/56/34/06/83/7bdfea540cd7.jpg" alt="" /></a>
+                    <div class="publication__item-title">
+                        <a href="/news/oxxxymiron-novy-albom-budet">Oxxxymiron порассуждал о новом альбоме и напомнил, что предыдущие релизы нужно было ждать по 4 года</a>
+                    </div>
+                    <div class="publication__item-text">
+                        "We're working" — прямая цитата.                    </div>
+                </div>
+                    </section>
+        <!-- publication -->
+
+        <section class="google_adsense">
+            <!--<div class="google_adsense__item">
+
+            </div>
+            <div class="google_adsense__item">
+
+            </div>--><!-- Яндекс.Директ -->
+            <style>
+                #yandex_ad {
+                    width: 1280px;
+                    margin: auto;
+                }
+            </style>
+
+            <div id="yandex_ad"></div>
+
+            <!-- Яндекс.Директ -->
+            <div id="yandex_ad"></div>
+            <script type="text/javascript">
+                (function(w, d, n, s, t) {
+                    w[n] = w[n] || [];
+                    w[n].push(function() {
+                        Ya.Direct.insertInto(132925, "yandex_ad", {
+                            ad_format: "direct",
+                            font_size: 0.9,
+                            type: "horizontal",
+                            limit: 4,
+                            title_font_size: 2,
+                            links_underline: true,
+                            site_bg_color: "FFFFFF",
+                            title_color: "000000",
+                            url_color: "000000",
+                            text_color: "000000",
+                            hover_color: "666666",
+                            sitelinks_color: "000000",
+                            favicon: true,
+                            no_sitelinks: false
+                        });
+                    });
+                    t = d.getElementsByTagName("script")[0];
+                    s = d.createElement("script");
+                    s.src = "//an.yandex.ru/system/context.js";
+                    s.type = "text/javascript";
+                    s.async = true;
+                    t.parentNode.insertBefore(s, t);
+                })(window, document, "yandex_context_callbacks");
+            </script>
+
+        </section>
+
+            </div>
+        <script type="text/javascript" src="/sc.js"></script>
+    </div>
+    <!-- // content -->
+
+    <footer>
+        <div class="fix footer_fields">
+            <div class="foot_shadow"></div>
+            <div class="copyright">
+                <div class="copyright__title">THE FLOW © 2019</div>
+                <div class="copyright__text">Использование материалов возможно только с письменного разрешения редакции, при этом ссылка на источник обязательна.</div>
+                <div class="wrap_counters">
+                    <div class="yandexmetr">
+                        <!-- Yandex.Metrika informer -->
+                        <a href="https://metrika.yandex.ru/stat/?id=25156208&amp;from=informer"
+                            target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/25156208/3_0_5EC1CFFF_3EA1AFFF_1_pageviews"
+                                style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="25156208" data-lang="ru" /></a>
+                        <!-- /Yandex.Metrika informer -->
+
+                        <!-- Yandex.Metrika counter -->
+                        <script type="text/javascript" >
+							(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+								m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+							(<i class=”src”>window</i>, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+							ym(25156208, "init", {
+								id:25156208,
+								clickmap:true,
+								trackLinks:true,
+								accurateTrackBounce:true,
+								webvisor:true
+							});
+                        </script>
+                        <noscript><div><img src="https://mc.yandex.ru/watch/25156208" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+                        <!-- /Yandex.Metrika counter -->
+                    </div>
+                    <div class="googleID">
+                        <!-- Global site tag (gtag.js) - Google Analytics -->
+                        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51567114-1"></script>
+                        <script>
+							window.dataLayer = window.dataLayer || [];
+							function gtag(){dataLayer.push(arguments);}
+							gtag('js', new Date());
+
+							gtag('config', 'UA-51567114-1');
+                        </script>
+                    </div>
+                    <div class="rambler">
+                        <!-- Top100 (Kraken) Widget -->
+                        <span id="top100_widget"></span>
+                        <!-- END Top100 (Kraken) Widget -->
+
+                        <!-- Top100 (Kraken) Counter -->
+                        <script>
+                            (function (w, d, c) {
+                                (w[c] = w[c] || []).push(function() {
+                                    var options = {
+                                        project: 3026991,
+                                        element: 'top100_widget',
+                                    };
+                                    try {
+                                        w.top100Counter = new top100(options);
+                                    } catch(e) { }
+                                });
+                                var n = d.getElementsByTagName("script")[0],
+                                    s = d.createElement("script"),
+                                    f = function () { n.parentNode.insertBefore(s, n); };
+                                s.type = "text/javascript";
+                                s.async = true;
+                                s.src =
+                                    (d.location.protocol == "https:" ? "https:" : "http:") +
+                                    "//st.top100.ru/top100/top100.js";
+
+                                if (w.opera == "[object Opera]") {
+                                    d.addEventListener("DOMContentLoaded", f, false);
+                                } else { f(); }
+                            })(window, document, "_top100q");
+                        </script>
+                        <noscript>
+                            <img src="//counter.rambler.ru/top100.cnt?pid=3026991" alt="Топ-100" />
+                        </noscript>
+                        <!-- END Top100 (Kraken) Counter -->
+                    </div>
+
+                    <div class="f_live_counter">
+                        <!--LiveInternet counter--><script type="text/javascript">
+                            document.write("<a href='//www.liveinternet.ru/click' "+
+                                "target=_blank><img src='//counter.yadro.ru/hit?t18.6;r"+
+                                escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                                ";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+                                "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                                " часа, посетителей за 24 часа и за сегодня' "+
+                                "border='0' width='88' height='31'><\/a>")
+                        </script><!--/LiveInternet-->
+                    </div>
+                </div>
+            </div>
+            <!-- copyright -->
+
+            <div class="right_block">
+                <menu class="footer_menu">
+                    <div class="footer_menu__column">
+                        <div>
+                            <a href="/foto" class="footer_menu__item">Фото</a>
+                        </div>
+                        <div>
+                            <a href="/videos" class="footer_menu__item">Клипы</a>
+                        </div>
+                        <div>
+                            <a href="/music" class="footer_menu__item">Рецензии</a>
+                        </div>
+                    </div>
+                    <div class="footer_menu__column">
+                        <div>
+                            <a href="/releases" class="footer_menu__item">Альбомы</a>
+                        </div>
+                        <div>
+                            <a href="/features" class="footer_menu__item">Тексты</a>
+                        </div>
+                        <div>
+                            <a href="/news" class="footer_menu__item">Новости</a>
+                        </div>
+                    </div>
+                    <div class="footer_menu__column">
+                        <div>
+                            <a href="/o-proekte" class="footer_menu__item">О проекте</a>
+                        </div>
+                        <div>
+                            <a href="/kontaktyi" class="footer_menu__item">Контакты</a>
+                        </div>
+                        <div>
+                            <a href="/site-map" class="footer_menu__item">Карта сайта</a>
+                        </div>
+                    </div>
+                </menu>
+                <!-- footer_menu -->
+
+                <div class="social">
+                    <a class="social__item fb" href="https://www.facebook.com/superslowflow" rel="nofollow"></a>
+                    <a class="social__item vk" href="https://vk.com/theflow" rel="nofollow"></a>
+                    <a class="social__item tw" href="https://twitter.com/theflowmag" rel="nofollow"></a>
+                    <br>
+                    <a class="social__item telegram" href="https://t.me/superslowflow" rel="nofollow"></a>
+                    <a class="social__item inst" href="https://www.instagram.com/theflow.ru/" rel="nofollow"></a>
+                    <a class="social__item youtube" href="https://www.youtube.com/channel/UCh5Ke3pxOtcpjHPxDZ79OKg/videos" rel="nofollow"></a>
+                                    </div>
+            </div>
+        </div>
+    </footer>
+    <div class="btn_to_top"></div>
+</div>
+<!-- general -->
+<script  onload="VK.init({apiId: 4391242, onlyWidgets: true});" type="text/javascript" src="//vk.com/js/api/openapi.js?113" defer="defer">
+</script>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'the-flow2014'; // required: replace example with your forum shortname
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var s = document.createElement('script');
+        s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+
+</script>
+<script type="text/javascript" src="https://vk.com/js/api/share.js?90" charset="windows-1251" defer="defer"></script>
+
+
+<script type="text/javascript">
+	(function(a, b, c, d, e, f, g, h) {
+		g = b.createElement(c);
+		g.src = d;
+		g.type = "application/javascript";
+		g.async = !0;
+		h = b.getElementsByTagName(c)[0];
+		h.parentNode.insertBefore(g, h);
+		a[f] = [];
+		a[e] = function() {
+			a[f].push(Array.prototype.slice.apply(arguments));
+		}
+	})(window, document, "script", (document.location.protocol === "https:" ? "https:" : "http:") + "//cdn01.nativeroll.tv/js/seedr-player.min.js", "SeedrPlayer", "seedrInit");
+</script>
+<script>
+    var buzzPlayerElement = document.getElementsByClassName("article__text")[0];
+    if(buzzPlayerElement !== undefined){
+		SeedrPlayer(buzzPlayerElement, 20, {
+			gid: "5620dffa64225d070a8b456f",
+			onError: function(r) {
+				(function(w, d) {
+					var c = d.createElement("script");
+					c.src = "https://tube.buzzoola.com/new/build/buzzlibrary.js";
+					c.type = "text/javascript";
+					c.async = !0;
+					var f = function() {
+						var p = d.getElementsByTagName("script")[0];
+						p.parentNode.insertBefore(c, p);
+					};
+					"[object Opera]" == w.opera ? d.addEventListener("DOMContentLoaded", f, !1) : f();
+				})(window, document);
+			}
+		});
+	}
+</script>
+<div class="buzzplayer-stage" data-hash="XKYmYyY14N3P7KtR6gZtyK5LNukn4gpQfodh7Y87in8" data-width="100%" data-expandable="true" data-target="div.article__text:br"></div>
+<script>
+	$(document).ready(function () {
+		$('#disqus_thread iframe[src^="//disqusads.com"]').hide();
+	});
+	$(window).bind("load", function () {
+		$('#disqus_thread iframe[src^="//disqusads.com"]').hide();
+	});
+</script>
+<script type="text/javascript" src="/assets/script-2-3f229-v10.js"></script>
+</body>
+</html>
