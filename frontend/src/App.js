@@ -3,26 +3,19 @@ import './App.css';
 import $ from 'jquery';
 
 class App extends Component {
-  defaultHtml = '<div><i class="src">abc</i>abcdef <i class="src">abc</i> <i class="src">aa</i></div>';
+  defaultHtml = '<i class="src">abc</i>abcdef <i class="src">abc</i> <i class="src">aa</i>';
   state = {
     html: this.defaultHtml,
+    uniqueWords: [],
     wordToHighlight: ""
   }
 
   componentDidMount() {
-    const uniqueWords = this.getUniqueWords();
-    if (this.state.wordToHighlight === "" && uniqueWords.length > 0) {
-      this.handleWordChange({
-        target: {
-          value: uniqueWords[0]
-        }
-      });
-    }
+    this.findUniqueWords();
   }
 
   render() {
-    const uniqueWords = this.getUniqueWords();
-    const options = uniqueWords.map(word =>
+    const options = this.state.uniqueWords.map(word =>
       <option key={word} value={word}>{word}</option>
     );
 
@@ -33,11 +26,13 @@ class App extends Component {
           defaultValue={this.defaultHtml}
           onChange={this.handleHtmlChange}></input>
         <p>select a word to <span className="highlight">highlight</span>: </p>
-        <select value={this.state.wordToHighlight} onChange={this.handleWordChange}>
-          {options}
-        </select>
+        <div>
+          <select value={this.state.wordToHighlight} onChange={this.handleWordChange}>
+            {options}
+          </select>
+        </div>
         <p>rendered html:</p>
-        <div dangerouslySetInnerHTML={{ __html: this.state.html }}></div>
+        <div className="guestHtml" dangerouslySetInnerHTML={{ __html: this.state.html }}></div>
       </div>
     );
   }
@@ -45,27 +40,42 @@ class App extends Component {
   handleHtmlChange = (e) => {
     this.setState({
       html: e.target.value
-    })
+    }, this.findUniqueWords);
   }
 
   handleWordChange = (e) => {
-    let guestHtml = $(this.state.html);
+    try {
+      let guestHtml = $(".guestHtml");
 
-    let elements = $(`i.src`, guestHtml);
-    elements.removeClass("highlight");
+      let elements = $(`i.src`, guestHtml);
+      elements.removeClass("highlight");
 
-    elements = $(`i.src:contains(${e.target.value})`, guestHtml);
-    elements.addClass("highlight");
-    this.setState({
-      wordToHighlight: e.target.value,
-      html: guestHtml.prop("outerHTML")
-    })
+      elements = $(`i.src:contains(${e.target.value})`, guestHtml);
+      elements.addClass("highlight");
+      this.setState({
+        wordToHighlight: e.target.value,
+        html: guestHtml.html()
+      })
+    } catch (error) {
+      console.log(error);
+    }
   }
 
-  getUniqueWords = () => {
-    const elements = $('i.src', this.state.html);
-    return [...new Set(
-      elements.get().map(item => { return item.innerText }))];
+  findUniqueWords = () => {
+    try {
+      const elements = $('i.src', $(".guestHtml"));
+      const uniqueWords = [...new Set(
+        elements.get().map(item => { return item.innerText }))];
+      this.setState(
+        { uniqueWords },
+        () => this.handleWordChange({
+          target: {
+            value: (uniqueWords.length > 0) ? uniqueWords[0] : ""
+          }
+        }));
+    } catch (error) {
+      console.log(error);
+    }
   }
 }
 
