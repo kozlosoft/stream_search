@@ -4,7 +4,7 @@
 
 namespace 
 {
-    std::wstring prefix(L"<i class=”src”>");
+    std::wstring prefix(L"<i class=\"src\">");
     std::wstring suffix(L"</i>");
 }
 

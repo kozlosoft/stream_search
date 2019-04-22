@@ -12,7 +12,7 @@ TEST(HighlighterTest, HighlightBasic)
     std::wstringstream istream;
     istream << L"a aaa a";
     std::wstringstream ostream;
-    std::wstring expected(L"a <i class=”src”>aaa</i> a");
+    std::wstring expected(L"a <i class=\"src\">aaa</i> a");
 
     TrieNodePtr dictionary = std::make_shared<TrieNode>();
     dictionary->insert(L"aaa");
