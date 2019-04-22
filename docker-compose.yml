@@ -11,3 +11,13 @@ services:
       # own build dir inside the container
       - '/data/build'
       - '/data/data'
+  frontend:
+    container_name: stream_search_frontend
+    build:
+      context: ./
+      dockerfile: DockerfileFrontend
+    ports: 
+      - "3000:3000"
+    volumes:
+      - './:/data'
+      - '/data/frontend/node_modules'

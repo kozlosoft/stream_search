@@ -1,0 +1,5 @@
+FROM node:latest
+COPY ./frontend/package.json /data/frontend/package.json
+WORKDIR /data/frontend
+RUN npm install
+CMD npm start
